@@ -68,3 +68,15 @@ cd web-to-zip-downloader
 
 ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ  
 ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ɪᴛ ᴀ ⭐ ᴏɴ **ɢɪᴛʜᴜʙ**
+
+## 📊 ɢɪᴛʜᴜʙ ᴘʀᴏᴊᴇᴄᴛ sᴛᴀᴛs
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=providerbotz&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=providerbotz&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=providerbotz&theme=tokyonight&hide_border=true" />
+
+</p>
