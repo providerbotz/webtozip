@@ -2,7 +2,6 @@
 
 ᴀ sɪᴍᴘʟᴇ ᴀɴᴅ ғᴀsᴛ ᴛᴏᴏʟ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴡᴇʙsɪᴛᴇ ғɪʟᴇs ᴀɴᴅ ᴄᴏɴᴠᴇʀᴛ ᴛʜᴇᴍ ɪɴᴛᴏ ᴀ ᴢɪᴘ ᴀʀᴄʜɪᴠᴇ.
 
----
 
 ## 🚀 ғᴇᴀᴛᴜʀᴇs
 
@@ -12,7 +11,6 @@
 • 💻 ᴡᴏʀᴋs ᴏɴ ᴀɴʏ ʙʀᴏᴡsᴇʀ  
 • 🔓 100% ғʀᴇᴇ ᴀɴᴅ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ
 
----
 
 ## 🛠 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
@@ -21,7 +19,6 @@
 • ᴊᴀᴠᴀsᴄʀɪᴘᴛ  
 • ɴᴏᴅᴇ.ᴊs (ᴏᴘᴛɪᴏɴᴀʟ)
 
----
 
 ## 📥 ɪɴsᴛᴀʟʟᴀᴛɪᴏɴ
 
@@ -32,7 +29,6 @@ git clone https://github.com/YOUR_USERNAME/web-to-zip-downloader.git
 cd web-to-zip-downloader
 ```
 
----
 
 ## ▶️ ᴜsᴀɢᴇ
 
@@ -41,13 +37,11 @@ cd web-to-zip-downloader
 3. ᴄʟɪᴄᴋ **ᴅᴏᴡɴʟᴏᴀᴅ**  
 4. ᴛʜᴇ ᴛᴏᴏʟ ᴡɪʟʟ ɢᴇɴᴇʀᴀᴛᴇ ᴀ **ᴢɪᴘ ғɪʟᴇ**
 
----
 
 ## 📸 sᴄʀᴇᴇɴsʜᴏᴛ
 
 ᴀᴅᴅ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ sᴄʀᴇᴇɴsʜᴏᴛ ʜᴇʀᴇ.
 
----
 
 ## 🤝 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
 
@@ -56,13 +50,11 @@ cd web-to-zip-downloader
 3. ᴄᴏᴍᴍɪᴛ ʏᴏᴜʀ ᴄʜᴀɴɢᴇs  
 4. ᴏᴘᴇɴ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇsᴛ
 
----
 
 ## 📄 ʟɪᴄᴇɴsᴇ
 
 ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ **ᴍɪᴛ ʟɪᴄᴇɴsᴇ**.
 
----
 
 ## ⭐ sᴜᴘᴘᴏʀᴛ
 
@@ -72,10 +64,6 @@ cd web-to-zip-downloader
 ## 📊 ɢɪᴛʜᴜʙ ᴘʀᴏᴊᴇᴄᴛ sᴛᴀᴛs
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=providerbotz&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=providerbotz&layout=compact&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=providerbotz&theme=tokyonight&hide_border=true" />
 
