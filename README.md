@@ -40,7 +40,7 @@ cd web-to-zip-downloader
 
 ## 📸 sᴄʀᴇᴇɴsʜᴏᴛ
 
-ᴀᴅᴅ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ sᴄʀᴇᴇɴsʜᴏᴛ ʜᴇʀᴇ.
+no ss avvialable
 
 
 ## 🤝 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
